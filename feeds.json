@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "reading",
+    "title": "Reading Queue",
+    "description": "Articles, papers, and documents Jeff sent himself to listen to instead of read. Drop a file or URL into podcasts/feeds/reading/inbox/ or run /audio-inbox.",
+    "author": "Jeff Fenchel",
+    "category": "Society &amp; Culture",
+    "url": "https://javfenchel.github.io/podcasts/reading"
+  },
+  {
+    "slug": "scotus",
+    "title": "SCOTUS Prep",
+    "description": "Pre-argument briefs and decision notes for the Supreme Court cases I'm following, generated from my scotus-pull tracker and read by a neural voice.",
+    "author": "Jeff Fenchel",
+    "category": "Government",
+    "url": "https://javfenchel.github.io/podcasts/scotus"
+  }
+]
