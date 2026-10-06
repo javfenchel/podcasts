@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/reading/</link>
 <description>Articles, papers, and documents Jeff sent himself to listen to instead of read. Drop a file or URL into podcasts/feeds/reading/inbox/ or run /audio-inbox.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 06 Oct 2026 19:16:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 19:20:06 +0000</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/reading/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Articles, papers, and documents Jeff sent himself to listen to instead of read. Drop a file or URL into podcasts/feeds/reading/inbox/ or run /audio-inbox.</itunes:summary>
@@ -17,10 +17,10 @@
 <item>
 <title>Welcome to the Reading Queue</title>
 <description>welcome.md · 159 words, about 1 min</description>
-<enclosure url="https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_welcome-to-the-reading-queue.mp3" length="310032" type="audio/mpeg"/>
+<enclosure url="https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_welcome-to-the-reading-queue.mp3" length="367632" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_welcome-to-the-reading-queue.mp3</guid>
 <pubDate>Tue, 06 Oct 2026 19:11:55 +0000</pubDate>
-<itunes:duration>0:00:52</itunes:duration>
+<itunes:duration>0:01:01</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel></rss>
