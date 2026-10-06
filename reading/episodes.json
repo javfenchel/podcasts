@@ -12,20 +12,5 @@
     "voice": "en-IE-EmilyNeural",
     "rate": "+15%",
     "release": null
-  },
-  "2026-10-06_release-test": {
-    "file": "2026-10-06_release-test.mp3",
-    "title": "Release Test",
-    "description": "release-test.md · 24 words, about 1 min",
-    "kind": "article",
-    "link": "",
-    "guid": "https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_release-test.mp3",
-    "rendered": "2026-10-06T19:34:54+00:00",
-    "pubDate": "2026-10-06T14:38-05:00",
-    "release": "2026-10-06T14:38-05:00",
-    "duration": 13.152,
-    "bytes": 78912,
-    "voice": "en-IE-EmilyNeural",
-    "rate": "+15%"
   }
 }

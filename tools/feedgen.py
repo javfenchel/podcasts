@@ -61,6 +61,9 @@ def write_feed(feed: dict, meta: dict, site_dir: Path, now: dt.datetime) -> list
     out_dir.mkdir(parents=True, exist_ok=True)
     items = _sorted([e for e in meta.values() if is_released(e, now)])
     cover = f"{feed['url']}/cover.png" if (out_dir / "cover.png").exists() else ""
+    # lastBuildDate follows the newest visible episode, not the clock, so regenerating an unchanged
+    # feed is byte-identical and the hourly release job has nothing to commit.
+    last_build = rfc2822(items[0]["pubDate"]) if items else email.utils.format_datetime(now)
     x = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" '
          'xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">',
@@ -69,7 +72,7 @@ def write_feed(feed: dict, meta: dict, site_dir: Path, now: dt.datetime) -> list
          f"<link>{feed['url']}/</link>",
          f"<description>{html.escape(feed['description'])}</description>",
          "<language>en-us</language>",
-         f"<lastBuildDate>{email.utils.format_datetime(now)}</lastBuildDate>",
+         f"<lastBuildDate>{last_build}</lastBuildDate>",
          f'<atom:link href="{feed["url"]}/feed.xml" rel="self" type="application/rss+xml"/>',
          f"<itunes:author>{html.escape(feed['author'])}</itunes:author>",
          f"<itunes:summary>{html.escape(feed['description'])}</itunes:summary>",
