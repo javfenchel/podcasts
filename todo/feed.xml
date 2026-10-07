@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>To-do Brief</title>
+<link>https://javfenchel.github.io/podcasts/todo/</link>
+<description>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 07 Oct 2026 15:46:31 +0000</lastBuildDate>
+<atom:link href="https://javfenchel.github.io/podcasts/todo/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:author>Jeff Fenchel</itunes:author>
+<itunes:summary>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Society &amp; Culture"/>
+<itunes:type>episodic</itunes:type>
+<itunes:image href="https://javfenchel.github.io/podcasts/todo/cover.png"/>
+<image><url>https://javfenchel.github.io/podcasts/todo/cover.png</url><title>To-do Brief</title><link>https://javfenchel.github.io/podcasts/todo/</link></image>
+<item>
+<title>10/7/26 – To-do brief</title>
+<description>Three items: one overdue.</description>
+<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-10-07.mp3" length="210672" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-10-07.mp3</guid>
+<pubDate>Wed, 07 Oct 2026 15:46:31 +0000</pubDate>
+<itunes:duration>0:00:35</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel></rss>
