@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/reading/</link>
 <description>Articles, papers, and documents Jeff sent himself to listen to instead of read. Drop a file or URL into podcasts/feeds/reading/inbox/ or run /audio-inbox.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 06 Oct 2026 19:11:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 01:55:31 +0000</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/reading/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Articles, papers, and documents Jeff sent himself to listen to instead of read. Drop a file or URL into podcasts/feeds/reading/inbox/ or run /audio-inbox.</itunes:summary>
@@ -14,6 +14,39 @@
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://javfenchel.github.io/podcasts/reading/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/reading/cover.png</url><title>Reading Queue</title><link>https://javfenchel.github.io/podcasts/reading/</link></image>
+<item>
+<title>The Politics Of Superintelligence</title>
+<description>NOEMA · by James O&#x27;Sullivan · December 9, 2025 · 5,551 words, about 31 min
+https://www.noemamag.com/the-politics-of-superintelligence</description>
+<link>https://www.noemamag.com/the-politics-of-superintelligence</link>
+<enclosure url="https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_the-politics-of-superintelligence.mp3" length="13220784" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_the-politics-of-superintelligence.mp3</guid>
+<pubDate>Wed, 07 Oct 2026 01:55:31 +0000</pubDate>
+<itunes:duration>0:36:43</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>What’s it like to be two years old? Fun. Confusing. Unapologetic.</title>
+<description>The Hechinger Report · by Lillian Mongeau Hughes · November 27, 2017 · 2,839 words, about 16 min
+https://hechingerreport.org/whats-it-like-to-be-two-years-old-fun-confusing-unapologetic/</description>
+<link>https://hechingerreport.org/whats-it-like-to-be-two-years-old-fun-confusing-unapologetic/</link>
+<enclosure url="https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_what-s-it-like-to-be-two-years-old-fun-confusing-unapologeti.mp3" length="5839632" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_what-s-it-like-to-be-two-years-old-fun-confusing-unapologeti.mp3</guid>
+<pubDate>Wed, 07 Oct 2026 01:55:31 +0000</pubDate>
+<itunes:duration>0:16:13</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Child’s Play</title>
+<description>Harper&#x27;s Magazine · by Sam Kriss · 9,392 words, about 53 min
+https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/</description>
+<link>https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/</link>
+<enclosure url="https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_child-s-play.mp3" length="19844496" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/reading/episodes/2026-10-06_child-s-play.mp3</guid>
+<pubDate>Wed, 07 Oct 2026 01:55:31 +0000</pubDate>
+<itunes:duration>0:55:07</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Welcome to the Reading Queue</title>
 <description>welcome.md · 159 words, about 1 min</description>
