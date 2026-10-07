@@ -16,7 +16,10 @@
       "en-CA-LiamNeural",
       "en-GB-SoniaNeural"
     ],
-    "rate": "+15%"
+    "rate": "+15%",
+    "image": "episodes/2026-04-20_25-466_sripetch-v-sec_decision.png",
+    "art_label": "Decision · Sripetch v. SEC · Jun 4",
+    "art_version": 2
   },
   "2026-10-05_25-170_suncor-v-boulder": {
     "file": "2026-10-05_25-170_suncor-v-boulder.mp3",
@@ -36,7 +39,10 @@
       "en-GB-SoniaNeural",
       "en-GB-LibbyNeural"
     ],
-    "rate": "+15%"
+    "rate": "+15%",
+    "image": "episodes/2026-10-05_25-170_suncor-v-boulder.png",
+    "art_label": "Suncor Energy v. Boulder County · Oct 5",
+    "art_version": 2
   },
   "2026-10-05_25-735_johnson-v-us-congress": {
     "file": "2026-10-05_25-735_johnson-v-us-congress.mp3",
@@ -56,7 +62,10 @@
       "en-GB-SoniaNeural",
       "en-GB-LibbyNeural"
     ],
-    "rate": "+15%"
+    "rate": "+15%",
+    "image": "episodes/2026-10-05_25-735_johnson-v-us-congress.png",
+    "art_label": "Johnson v. U.S. Congress · Oct 5",
+    "art_version": 2
   },
   "2026-10-06_25-498_anderson-v-intel": {
     "file": "2026-10-06_25-498_anderson-v-intel.mp3",
@@ -71,7 +80,10 @@
     "duration": 538.248,
     "bytes": 3229488,
     "voice": "en-CA-LiamNeural",
-    "rate": "+15%"
+    "rate": "+15%",
+    "image": "episodes/2026-10-06_25-498_anderson-v-intel.png",
+    "art_label": "Anderson v. Intel · Oct 6",
+    "art_version": 2
   },
   "2026-10-07_25-579_air-force-v-prutehi-guahan": {
     "file": "2026-10-07_25-579_air-force-v-prutehi-guahan.mp3",
@@ -91,6 +103,9 @@
       "en-GB-SoniaNeural",
       "en-GB-LibbyNeural"
     ],
-    "rate": "+15%"
+    "rate": "+15%",
+    "image": "episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.png",
+    "art_label": "Air Force v. Prutehi Guåhan · Oct 7",
+    "art_version": 2
   }
 }

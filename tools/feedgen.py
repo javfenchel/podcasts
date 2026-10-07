@@ -89,6 +89,8 @@ def write_feed(feed: dict, meta: dict, site_dir: Path, now: dt.datetime) -> list
         x.append(f"<description>{html.escape(e['description'])}</description>")
         if e.get("link"):
             x.append(f"<link>{html.escape(e['link'])}</link>")
+        if e.get("image"):                                   # per-episode art; entries without it use the channel image
+            x.append(f'<itunes:image href="{feed["url"]}/{e["image"]}"/>')
         x.append(f'<enclosure url="{url}" length="{e["bytes"]}" type="audio/mpeg"/>')
         x.append(f'<guid isPermaLink="false">{html.escape(e["guid"])}</guid>')
         x.append(f"<pubDate>{rfc2822(e['pubDate'])}</pubDate>")
