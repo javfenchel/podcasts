@@ -17,5 +17,24 @@
       "en-GB-SoniaNeural"
     ],
     "rate": "+15%"
+  },
+  "2026-10-08": {
+    "file": "2026-10-08.mp3",
+    "title": "10/8/26 – To-do brief",
+    "description": "Thursday, October 8. Your to-do brief.",
+    "kind": "brief",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/todo/episodes/2026-10-08.mp3#2026-10-08T20:06:42+00:00",
+    "rendered": "2026-10-08T20:06:42+00:00",
+    "pubDate": "2026-10-08T20:06:42+00:00",
+    "release": null,
+    "duration": 21.287999999999997,
+    "bytes": 127728,
+    "voice": "en-GB-LibbyNeural",
+    "voices": [
+      "en-GB-LibbyNeural",
+      "en-GB-SoniaNeural"
+    ],
+    "rate": "+15%"
   }
 }
