@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/todo/</link>
 <description>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:06:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 17:00:51 +0000</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/todo/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</itunes:summary>
@@ -14,6 +14,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://javfenchel.github.io/podcasts/todo/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/todo/cover.png</url><title>To-do Brief</title><link>https://javfenchel.github.io/podcasts/todo/</link></image>
+<item>
+<title>10/9/26 – To-do brief</title>
+<description>Friday, October 9. Your to-do brief.</description>
+<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-10-09.mp3" length="155376" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-10-09.mp3#2026-10-09T17:00:51+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 17:00:51 +0000</pubDate>
+<itunes:duration>0:00:26</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>10/8/26 – To-do brief</title>
 <description>Thursday, October 8. Your to-do brief.</description>
