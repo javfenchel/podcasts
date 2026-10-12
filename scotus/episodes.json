@@ -107,5 +107,51 @@
     "image": "episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.png",
     "art_label": "Air Force v. Prutehi Guåhan · Oct 7",
     "art_version": 2
+  },
+  "2026-10-13_25-5343_beaird-v-us": {
+    "file": "2026-10-13_25-5343_beaird-v-us.mp3",
+    "title": "10/13/26 – Prep: Beaird v. United States",
+    "description": "In October 2022, Dallas police took a Glock pistol with an inserted 17-round magazine from Kendrick Beaird's waistband, the government says an officer saw him point it at another person; Beaird stresses that the gun was unloaded and the magazine was the factory standard, and he pleaded guilty to possessing a firearm as a felon under section 922 g 1. Guideline section 2K2.1 a 3 raises the base offense level when the offense involved a semiautomatic firearm \"capable of accepting a large capacity magazine,\" a phrase the guideline text does not define but Application Note 2 of the commentary defines as a magazine that could accept more than 15 rounds; applying the note raised Beaird's range from 51 to 63 to 63 to 78 months, and the district court imposed 72 months while stating it would have imposed the same sentence under any range. The Fifth Circuit summarily affirmed, treating the challenge as foreclosed by United States versus Vargas, en banc 2023, which held that Stinson survives Kisor versus Wilkie and that commentary controls even unambiguous guidelines, and by United States versus Martin, from 2024, which upheld this particular note. The circuits have divided over whether Kisor's limits apply to Guidelines commentary, though the government notes that every circuit to apply Kisor to the large-capacity-magazine note has upheld it. Neither party defends the judgment, Beaird argues for no deference at all, or, alternatively, Kisor's limits, and the United States argues that Stinson properly incorporates Kisor's limits and supports vacatur and remand while predicting the same sentence, so the Court appointed Anthony Dick to argue that Stinson remains correct as written.",
+    "kind": "prep",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-13_25-5343_beaird-v-us.mp3",
+    "rendered": "2026-10-12T19:46:31+00:00",
+    "pubDate": "2026-10-12T06:00-05:00",
+    "release": "2026-10-12T06:00-05:00",
+    "duration": 774.9359999999999,
+    "bytes": 4649616,
+    "voice": "en-CA-LiamNeural",
+    "voices": [
+      "en-CA-LiamNeural",
+      "en-GB-SoniaNeural",
+      "en-GB-LibbyNeural"
+    ],
+    "rate": "+15%",
+    "image": "episodes/2026-10-13_25-5343_beaird-v-us.png",
+    "art_label": "Beaird v. U.S. · Oct 13",
+    "art_version": 2
+  },
+  "2026-10-14_25-459_salazar-v-paramount": {
+    "file": "2026-10-14_25-459_salazar-v-paramount.mp3",
+    "title": "10/14/26 – Prep: Salazar v. Paramount Global",
+    "description": "In 2022 Michael Salazar signed up for a free email newsletter from 247Sports.com, a Paramount-owned college-sports site; he alleges that when he later watched videos on the site while logged into Facebook, the Meta Pixel embedded in the site sent Facebook his Facebook ID and the addresses of the video pages he viewed without his consent, and he seeks the VPPA's $2,500 in liquidated damages per class member plus punitive damages. The district court dismissed on the ground that he was not a \"consumer\" because the newsletter was not audiovisual, and a divided Sixth Circuit affirmed: Judge Nalbandian, joined by Judge Batchelder, read \"goods or services from a video tape service provider\" together with the statute's definition of a provider as one dealing in \"prerecorded video cassette tapes or similar audio visual materials\" and held that only audiovisual goods or services count, while Judge Bloomekatz dissented that the plain text limits the source of the goods or services, not their type. The circuits are split 2 to 2: the Second Circuit, in Salazar versus NBA, a parallel suit by the same plaintiff, and the Seventh Circuit read the definition to reach any of a provider's goods or services, including newsletters, while the D.C. Circuit sided with the Sixth in Pileggi versus Washington Newspaper Publishing Company, where a cert petition is pending. In opposing certiorari, Paramount argued the claim would fail anyway because 247Sports is not a \"video tape service provider\" and Pixel data is not \"personally identifiable information,\" but the courts below assumed both points, the Sixth Circuit decided only the \"consumer\" question, and Paramount's merits brief does not press the alternative grounds. The Court denied the NBA's petition raising the same \"consumer\" question, along with a standing question, on December 8, 2025, and granted this one on January 26, 2026.",
+    "kind": "prep",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-14_25-459_salazar-v-paramount.mp3",
+    "rendered": "2026-10-12T19:46:31+00:00",
+    "pubDate": "2026-10-13T06:00-05:00",
+    "release": "2026-10-13T06:00-05:00",
+    "duration": 800.712,
+    "bytes": 4804272,
+    "voice": "en-CA-LiamNeural",
+    "voices": [
+      "en-CA-LiamNeural",
+      "en-GB-SoniaNeural",
+      "en-GB-LibbyNeural"
+    ],
+    "rate": "+15%",
+    "image": "episodes/2026-10-14_25-459_salazar-v-paramount.png",
+    "art_label": "Salazar v. Paramount Global · Oct 14",
+    "art_version": 2
   }
 }
