@@ -112,5 +112,24 @@
       "en-GB-SoniaNeural"
     ],
     "rate": "+15%"
+  },
+  "2026-10-13": {
+    "file": "2026-10-13.mp3",
+    "title": "10/13/26 – To-do brief",
+    "description": "Your list is clear.",
+    "kind": "brief",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/todo/episodes/2026-10-13.mp3#2026-10-13T17:00:43+00:00",
+    "rendered": "2026-10-13T17:00:43+00:00",
+    "pubDate": "2026-10-13T17:00:43+00:00",
+    "release": null,
+    "duration": 6.36,
+    "bytes": 38160,
+    "voice": "en-GB-LibbyNeural",
+    "voices": [
+      "en-GB-LibbyNeural",
+      "en-GB-SoniaNeural"
+    ],
+    "rate": "+15%"
   }
 }
