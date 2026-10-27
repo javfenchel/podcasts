@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/todo/</link>
 <description>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 26 Oct 2026 17:01:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:01:39 +0000</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/todo/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</itunes:summary>
@@ -14,6 +14,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://javfenchel.github.io/podcasts/todo/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/todo/cover.png</url><title>To-do Brief</title><link>https://javfenchel.github.io/podcasts/todo/</link></image>
+<item>
+<title>10/27/26 – To-do brief</title>
+<description>Your list is clear.</description>
+<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-10-27.mp3" length="38736" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-10-27.mp3#2026-10-27T17:01:39+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 17:01:39 +0000</pubDate>
+<itunes:duration>0:00:06</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>10/26/26 – To-do brief</title>
 <description>Your list is clear.</description>
@@ -66,15 +75,6 @@
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-10-21.mp3#2026-10-21T17:01:04+00:00</guid>
 <pubDate>Wed, 21 Oct 2026 17:01:04 +0000</pubDate>
 <itunes:duration>0:00:13</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>10/20/26 – To-do brief</title>
-<description>Your list is clear.</description>
-<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-10-20.mp3" length="37008" type="audio/mpeg"/>
-<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-10-20.mp3#2026-10-20T17:00:58+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:58 +0000</pubDate>
-<itunes:duration>0:00:06</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel></rss>
