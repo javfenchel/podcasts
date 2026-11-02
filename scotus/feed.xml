@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/scotus/</link>
 <description>Pre-argument briefs and decision notes for the Supreme Court cases I&#x27;m following, generated from my scotus-pull tracker and read by a neural voice.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 17:00:00 -0500</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 17:00:00 -0600</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/scotus/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Pre-argument briefs and decision notes for the Supreme Court cases I&#x27;m following, generated from my scotus-pull tracker and read by a neural voice.</itunes:summary>
@@ -15,12 +15,32 @@
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/scotus/cover.png</url><title>SCOTUS Prep</title><link>https://javfenchel.github.io/podcasts/scotus/</link></image>
 <item>
+<title>11/2/26 – Prep: Younge v. Fulton Judicial Circuit District Attorney&#x27;s Office, Georgia</title>
+<description>In April 2019 Fulton County District Attorney Paul Howard hired Jasmine Younge as his Deputy Chief of Staff and Director of Policy and Programs, the third-ranking job in the office. She supervised more than thirty employees, reported only to Howard and testified that she was his &quot;go-to person for almost everything.&quot; On about July 1 she told Howard she was pregnant. She alleges that he reacted angrily, cut her out of meetings and reassigned her duties, and he fired her on July 15. Howard testified that he had already told her she was not working out; his chief of staff testified she knew of no discussion of firing Younge before the announcement. The office answered Younge&#x27;s Title Seven suit, N.D. Ga.; her other claims were dismissed or abandoned, on March 24, 2021. The answer listed several affirmative defenses but not the section 2000e f personal-staff exemption, although it admitted she was a member of the DA&#x27;s &quot;executive and/or personal staff.&quot; The scheduling order&#x27;s deadline to amend pleadings passed on May 26, 2021, and discovery closed January 5, 2022. At a March 14, 2022 discovery hearing the office first said it would rely on the exemption; counsel said he had not realized it was an issue until he began drafting the summary judgment motion. On May 16, 2022 it moved for summary judgment on that exemption and on the separate &quot;policymaking appointee&quot; exemption, without ever seeking leave to amend. Applying Hassan versus U.S. Postal Service, the magistrate judge treated the exemption as an affirmative defense and found it had not been pleaded or noticed before March 2022. She still found no prejudice, because the extra discovery Younge proposed concerned facts within her own knowledge, was a &quot;fishing expedition,&quot; or amounted to legal research. She declined to reach the policymaking-appointee exemption, finding that late assertion prejudicial, and recommended summary judgment on the personal-staff ground. The district court agreed, granting summary judgment even though it found sufficient evidence of discriminatory motive. The Eleventh Circuit affirmed. It assumed without deciding that the exemption is an affirmative defense, noting that the Fourth and Fifth Circuits disagree on that point, and reaffirmed Hassan&#x27;s rule that a court may consider an unpleaded affirmative defense at summary judgment if the plaintiff is not prejudiced. It found no prejudice, stressing that Younge never took up the magistrate judge&#x27;s offer to reopen discovery and had conceded that the office&#x27;s discovery responses referred to her as &quot;personal staff&quot; five times. In footnote 8 it rejected her argument that Rule 16 b 4&#x27;s good-cause standard applied: &quot;we simply treat unpleaded affirmative defenses differently from late motions to amend pleadings.&quot; On the merits, assuming the six-factor Laurie test governs, it held that there was no genuine dispute that she was Howard&#x27;s personal staff.</description>
+<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-352_younge-v-fulton-da.png"/>
+<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-352_younge-v-fulton-da.mp3" length="6824880" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-352_younge-v-fulton-da.mp3</guid>
+<pubDate>Sun, 01 Nov 2026 17:00:00 -0600</pubDate>
+<itunes:duration>0:18:57</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>11/2/26 – Prep: Maxwell v. Dinis</title>
+<description>Maxwell, a former lawyer, was convicted by a New Jersey federal jury in 2014 of RICO conspiracy, wire fraud and related counts arising from a scheme with members of La Cosa Nostra to take control of FirstPlus Financial Group, a Texas mortgage lender, and drain more than $14 million from it; he was sentenced in 2015 to 240 months plus three years of supervised release, the Third Circuit affirmed, United States versus Scarfo, from 2022, and he disputes the government&#x27;s account of the conduct in a pending section 2255 motion. He has no disciplinary infractions, carries B O P&#x27;s lowest recidivism-risk rating, and has worked as a cook and a law-library clerk, activities he says earn First Step Act time credits, which the Act says &quot;shall be applied toward time in prerelease custody or supervised release&quot;, section 3632 d 4 C. After B O P denied his requests, beginning in 2020, for transfer to a halfway house or home confinement, he filed a pro se section 2241 petition in February 2022 alleging, among other things, that B O P was not counting some of his productive activities and owed him 42 to 48 months of credits. The magistrate judge and district court dismissed: the First Step Act claims were unexhausted because his grievances sought only CARES Act home confinement, and the CARES Act claim failed on the merits. The government defended the dismissal on exhaustion alone, but the Fifth Circuit affirmed on a ground neither side had raised: under the &quot;bright-line rule&quot; of Melot versus Bergami, a claim belongs in habeas only if success would automatically entitle the prisoner to accelerated release, so a request for a halfway house or home confinement must be brought as a civil-rights, Bivens, suit. It did not reach exhaustion, and in a footnote it set aside an unpublished contrary ruling on CARES Act home confinement, Cheek versus Warden, and described Maxwell&#x27;s claim as arising under the First Step Act&#x27;s elderly-offender pilot program, a description Maxwell disputed.</description>
+<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-5930_maxwell-v-dinis.png"/>
+<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-5930_maxwell-v-dinis.mp3" length="6885648" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-02_25-5930_maxwell-v-dinis.mp3</guid>
+<pubDate>Sun, 01 Nov 2026 17:00:00 -0600</pubDate>
+<itunes:duration>0:19:08</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 <title>10/14/26 – Prep: Salazar v. Paramount Global</title>
 <description>In 2022 Michael Salazar signed up for a free email newsletter from 247Sports.com, a Paramount-owned college-sports site; he alleges that when he later watched videos on the site while logged into Facebook, the Meta Pixel embedded in the site sent Facebook his Facebook ID and the addresses of the video pages he viewed without his consent, and he seeks the VPPA&#x27;s $2,500 in liquidated damages per class member plus punitive damages. The district court dismissed on the ground that he was not a &quot;consumer&quot; because the newsletter was not audiovisual, and a divided Sixth Circuit affirmed: Judge Nalbandian, joined by Judge Batchelder, read &quot;goods or services from a video tape service provider&quot; together with the statute&#x27;s definition of a provider as one dealing in &quot;prerecorded video cassette tapes or similar audio visual materials&quot; and held that only audiovisual goods or services count, while Judge Bloomekatz dissented that the plain text limits the source of the goods or services, not their type. The circuits are split 2 to 2: the Second Circuit, in Salazar versus NBA, a parallel suit by the same plaintiff, and the Seventh Circuit read the definition to reach any of a provider&#x27;s goods or services, including newsletters, while the D.C. Circuit sided with the Sixth in Pileggi versus Washington Newspaper Publishing Company, where a cert petition is pending. In opposing certiorari, Paramount argued the claim would fail anyway because 247Sports is not a &quot;video tape service provider&quot; and Pixel data is not &quot;personally identifiable information,&quot; but the courts below assumed both points, the Sixth Circuit decided only the &quot;consumer&quot; question, and Paramount&#x27;s merits brief does not press the alternative grounds. The Court denied the NBA&#x27;s petition raising the same &quot;consumer&quot; question, along with a standing question, on December 8, 2025, and granted this one on January 26, 2026.</description>
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-14_25-459_salazar-v-paramount.png"/>
 <enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-14_25-459_salazar-v-paramount.mp3" length="4804272" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-14_25-459_salazar-v-paramount.mp3</guid>
-<pubDate>Tue, 13 Oct 2026 17:00:00 -0500</pubDate>
+<pubDate>Tue, 13 Oct 2026 17:00:00 -0600</pubDate>
 <itunes:duration>0:13:21</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -30,8 +50,18 @@
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-13_25-5343_beaird-v-us.png"/>
 <enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-13_25-5343_beaird-v-us.mp3" length="4649616" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-13_25-5343_beaird-v-us.mp3</guid>
-<pubDate>Mon, 12 Oct 2026 06:00:00 -0500</pubDate>
+<pubDate>Mon, 12 Oct 2026 17:00:00 -0600</pubDate>
 <itunes:duration>0:12:55</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>10/7/26 – Prep: Department of the Air Force v. Prutehi Guåhan</title>
+<description>Since the 1980s the Air Force has disposed of expired and unexploded munitions by open burning and open detonation at Tarague Beach on Andersen Air Force Base in northern Guam, under a RCRA hazardous-waste permit administered by Guam EPA, which holds EPA-authorized permitting authority. In May 2021 the Air Force applied to renew the permit; Guam EPA issued a preliminary decision that October that neither granted nor denied it, and the application remains pending while operations continue under the expired permit. Prutehi Guåhan sued in January 2022, alleging the Air Force violated NEPA by failing to prepare an environmental impact statement before applying. The District of Guam dismissed for lack of final agency action, but a divided Ninth Circuit reversed, holding that the application marked the consummation of the Air Force&#x27;s decision to continue detonations and carried legal consequences under Bennett versus Spear, and that RCRA&#x27;s permitting process does not displace NEPA; Judge VanDyke dissented that the application was a routine step in implementing an existing operation and that the majority&#x27;s approach could reach almost any agency decision. The Court granted certiorari on March 9, 2026. Amici for the government include the Chamber of Commerce and 21 states led by West Virginia; amici for respondent include 11 states led by Washington, Guam and Pacific-territory community organizations, members of Congress, and the Virgin Islands Bar Association.</description>
+<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.png"/>
+<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.mp3" length="3538800" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.mp3</guid>
+<pubDate>Tue, 06 Oct 2026 17:00:00 -0600</pubDate>
+<itunes:duration>0:09:50</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
@@ -45,22 +75,12 @@
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>10/7/26 – Prep: Department of the Air Force v. Prutehi Guåhan</title>
-<description>Since the 1980s the Air Force has disposed of expired and unexploded munitions by open burning and open detonation at Tarague Beach on Andersen Air Force Base in northern Guam, under a RCRA hazardous-waste permit administered by Guam EPA, which holds EPA-authorized permitting authority. In May 2021 the Air Force applied to renew the permit; Guam EPA issued a preliminary decision that October that neither granted nor denied it, and the application remains pending while operations continue under the expired permit. Prutehi Guåhan sued in January 2022, alleging the Air Force violated NEPA by failing to prepare an environmental impact statement before applying. The District of Guam dismissed for lack of final agency action, but a divided Ninth Circuit reversed, holding that the application marked the consummation of the Air Force&#x27;s decision to continue detonations and carried legal consequences under Bennett versus Spear, and that RCRA&#x27;s permitting process does not displace NEPA; Judge VanDyke dissented that the application was a routine step in implementing an existing operation and that the majority&#x27;s approach could reach almost any agency decision. The Court granted certiorari on March 9, 2026. Amici for the government include the Chamber of Commerce and 21 states led by West Virginia; amici for respondent include 11 states led by Washington, Guam and Pacific-territory community organizations, members of Congress, and the Virgin Islands Bar Association.</description>
-<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.png"/>
-<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.mp3" length="3538800" type="audio/mpeg"/>
-<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-07_25-579_air-force-v-prutehi-guahan.mp3</guid>
-<pubDate>Tue, 06 Oct 2026 06:00:00 -0500</pubDate>
-<itunes:duration>0:09:50</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
 <title>10/6/26 – Prep: Anderson v. Intel Corp. Investment Policy Committee</title>
 <description>After the 2008 financial crisis, Intel&#x27;s investment committee redesigned the plans&#x27; custom target-date funds and a diversified fund to allocate substantial shares, plaintiffs say roughly a third of some funds, to hedge funds, private equity, commodities, and other alternative assets, with the stated goal of dampening equity volatility. Participants sued in 2019, alleging the funds carried higher fees and chronically underperformed conventional target-date funds, peer-group averages, and market indices with heavier equity exposure, and that the fiduciaries breached ERISA&#x27;s duties of prudence and loyalty. The district court dismissed for failure to plead a &quot;meaningful benchmark,&quot; and the Ninth Circuit affirmed, holding that an underperformance claim must identify a comparator with similar aims, risks, and potential rewards, and that broad indices and ordinary target-date funds were not meaningful benchmarks for funds built to reduce equity risk. The Second, Seventh, Eighth, and Tenth Circuits apply versions of the same requirement; the Sixth Circuit declined to make a benchmark a pleading prerequisite in Johnson versus Parker-Hannifin Corporation, from 2024, and a cert petition in that case is pending. The Court granted certiorari on January 16, 2026, and the United States filed as amicus supporting Intel.</description>
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-06_25-498_anderson-v-intel.png"/>
 <enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-06_25-498_anderson-v-intel.mp3" length="3229488" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-06_25-498_anderson-v-intel.mp3</guid>
-<pubDate>Mon, 05 Oct 2026 06:00:00 -0500</pubDate>
+<pubDate>Mon, 05 Oct 2026 17:00:00 -0600</pubDate>
 <itunes:duration>0:08:58</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -70,7 +90,7 @@
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-170_suncor-v-boulder.png"/>
 <enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-170_suncor-v-boulder.mp3" length="3595968" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-170_suncor-v-boulder.mp3</guid>
-<pubDate>Sun, 04 Oct 2026 06:00:00 -0500</pubDate>
+<pubDate>Sun, 04 Oct 2026 17:00:00 -0600</pubDate>
 <itunes:duration>0:09:59</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
@@ -80,7 +100,7 @@
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-735_johnson-v-us-congress.png"/>
 <enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-735_johnson-v-us-congress.mp3" length="3205584" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-10-05_25-735_johnson-v-us-congress.mp3</guid>
-<pubDate>Sun, 04 Oct 2026 06:00:00 -0500</pubDate>
+<pubDate>Sun, 04 Oct 2026 17:00:00 -0600</pubDate>
 <itunes:duration>0:08:54</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
