@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/scotus/</link>
 <description>Pre-argument briefs and decision notes for the Supreme Court cases I&#x27;m following, generated from my scotus-pull tracker and read by a neural voice.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 17:00:00 -0600</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 17:00:00 -0600</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/scotus/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Pre-argument briefs and decision notes for the Supreme Court cases I&#x27;m following, generated from my scotus-pull tracker and read by a neural voice.</itunes:summary>
@@ -14,6 +14,26 @@
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://javfenchel.github.io/podcasts/scotus/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/scotus/cover.png</url><title>SCOTUS Prep</title><link>https://javfenchel.github.io/podcasts/scotus/</link></image>
+<item>
+<title>11/9/26 – Prep: Hoffmann v. WBI Energy Transmission, Inc.</title>
+<description>In 2018 WBI invoked section 717f h to condemn easements across the petitioners&#x27; ranchland in the Bakken for a roughly 12-mile gas line after the owners, who had been paid more by oil pipelines that lack condemnation power, turned down its offers; once the district court let the owners use evidence of arm&#x27;s-length easement sales, the parties settled the easements&#x27; value in 2021 and reserved the question of fees. The district court applied United States versus Kimbell Foods, found that all three of its factors favored borrowing North Dakota law, under which a court may award a condemnee reasonable fees and costs, N.D. Cent. Code section 32-15-32, and ordered WBI to pay. The Eighth Circuit vacated: under PennEast the statute is a &quot;categorical&quot; delegation of the federal eminent-domain power, so WBI stepped into the United States&#x27; shoes; the Fifth Amendment fills any gap, leaving no room for Kimbell Foods; and under Bodcaw, fees are not part of constitutional just compensation unless Congress provides them as &quot;legislative grace.&quot; Policy concerns, the panel said, are for Congress.</description>
+<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-159_hoffmann-v-wbi-energy.png"/>
+<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-159_hoffmann-v-wbi-energy.mp3" length="5033376" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-159_hoffmann-v-wbi-energy.mp3</guid>
+<pubDate>Sun, 08 Nov 2026 17:00:00 -0600</pubDate>
+<itunes:duration>0:13:59</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>11/9/26 – Prep: Nielsen v. Watanabe</title>
+<description>Watanabe alleges that after he was beaten with a &quot;lock in a sock&quot; in a July 2021 gang riot at the Honolulu detention center, Nielsen heard him rate his back pain a 10, told him to &quot;stop being a cry baby,&quot; and refused to send him to a hospital. He says he then got little beyond over-the-counter pain medicine until a February 2022 x-ray showed a fractured coccyx with bone chips in the surrounding tissue. Nielsen points to records showing he gave an anti-inflammatory injection and prescription ibuprofen after consulting an on-call physician. The district court dismissed the $3 million suit as a new context, because the injury was far less severe than Carlson&#x27;s fatal emergency and because Carlson never considered the Bureau of Prisons&#x27; Administrative Remedy Program, ARP. A divided Ninth Circuit panel reversed. Judge Paez, joined by Judge Koh, applied Abbasi&#x27;s factors, called the claim &quot;identical to Carlson in all meaningful respects,&quot; held that a plaintiff &quot;need not suffer death or a life-threatening injury,&quot; and treated alternative remedies as a question for step two. It never reached step two; Watanabe had conceded that if the context is new, special factors bar the claim there. Judge Milan Smith dissented on both severity and the ARP.</description>
+<itunes:image href="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-417_nielsen-v-watanabe.png"/>
+<enclosure url="https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-417_nielsen-v-watanabe.mp3" length="5400576" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-417_nielsen-v-watanabe.mp3</guid>
+<pubDate>Sun, 08 Nov 2026 17:00:00 -0600</pubDate>
+<itunes:duration>0:15:00</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>11/4/26 – Prep: Guerrero v. Johnson</title>
 <description>In June 2006, in Houston, Dexter Johnson and four companions abducted 23-year-old Maria Aparece and her boyfriend, Huy Ngo, at gunpoint. Johnson raped Aparece, and both victims were shot in the head in a wooded area. Johnson was convicted of capital murder and sentenced to death in 2007, five years after Atkins versus Virginia barred executing people with intellectual disability. At the punishment phase his own expert, Dr. Dale Watson, put his IQ between 74 and 88 and testified that he was not intellectually disabled under the then-governing DSM-IV-TR framework. Texas stresses that Watson saw no obvious adaptive deficits; Johnson says the IQ scores ruled out the diagnosis before adaptive functioning was ever assessed. Johnson&#x27;s initial state habeas application, denied 2010, and federal petition, filed June 2011, denied in 2013 to 14, affirmed in 2015, cert denied 2016, raised no Atkins claim. They invoked Atkins only to argue that it should be extended to the mentally ill. In May 2013, while the federal petition was pending, the American Psychiatric Association published the DSM-5, which moved the diagnosis away from IQ cutoffs toward clinical judgment and adaptive functioning. This Court then rejected a rigid IQ cutoff in Hall versus Florida, from 2014, and Texas&#x27;s Briseno factors in Moore versus Texas, from 2017, and the Texas Court of Criminal Appeals adopted the DSM-5 in 2018. Facing a 2019 execution date, Johnson obtained a full-scale IQ score of 70 and two expert diagnoses of intellectual disability under the DSM-5. Dr. Watson declared that his trial-era scores would not automatically preclude the diagnosis under current standards. The Court of Criminal Appeals dismissed two successive state applications, the first as an abuse of the writ.</description>

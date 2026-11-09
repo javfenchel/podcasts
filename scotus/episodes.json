@@ -245,5 +245,74 @@
     "image": "episodes/2026-11-04_25-1003_guerrero-v-johnson.png",
     "art_label": "Guerrero v. Johnson · Nov 4",
     "art_version": 2
+  },
+  "2026-11-09_25-159_hoffmann-v-wbi-energy": {
+    "file": "2026-11-09_25-159_hoffmann-v-wbi-energy.mp3",
+    "title": "11/9/26 – Prep: Hoffmann v. WBI Energy Transmission, Inc.",
+    "description": "In 2018 WBI invoked section 717f h to condemn easements across the petitioners' ranchland in the Bakken for a roughly 12-mile gas line after the owners, who had been paid more by oil pipelines that lack condemnation power, turned down its offers; once the district court let the owners use evidence of arm's-length easement sales, the parties settled the easements' value in 2021 and reserved the question of fees. The district court applied United States versus Kimbell Foods, found that all three of its factors favored borrowing North Dakota law, under which a court may award a condemnee reasonable fees and costs, N.D. Cent. Code section 32-15-32, and ordered WBI to pay. The Eighth Circuit vacated: under PennEast the statute is a \"categorical\" delegation of the federal eminent-domain power, so WBI stepped into the United States' shoes; the Fifth Amendment fills any gap, leaving no room for Kimbell Foods; and under Bodcaw, fees are not part of constitutional just compensation unless Congress provides them as \"legislative grace.\" Policy concerns, the panel said, are for Congress.",
+    "kind": "prep",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-159_hoffmann-v-wbi-energy.mp3",
+    "rendered": "2026-11-09T16:20:56+00:00",
+    "pubDate": "2026-11-08T17:00-06:00",
+    "release": "2026-11-08T17:00-06:00",
+    "duration": 838.896,
+    "bytes": 5033376,
+    "voice": "en-CA-LiamNeural",
+    "voices": [
+      "en-CA-LiamNeural",
+      "en-GB-SoniaNeural",
+      "en-GB-LibbyNeural"
+    ],
+    "rate": "+15%",
+    "image": "episodes/2026-11-09_25-159_hoffmann-v-wbi-energy.png",
+    "art_label": "Hoffmann v. WBI Energy · Nov 9",
+    "art_version": 2
+  },
+  "2026-11-09_25-417_nielsen-v-watanabe": {
+    "file": "2026-11-09_25-417_nielsen-v-watanabe.mp3",
+    "title": "11/9/26 – Prep: Nielsen v. Watanabe",
+    "description": "Watanabe alleges that after he was beaten with a \"lock in a sock\" in a July 2021 gang riot at the Honolulu detention center, Nielsen heard him rate his back pain a 10, told him to \"stop being a cry baby,\" and refused to send him to a hospital. He says he then got little beyond over-the-counter pain medicine until a February 2022 x-ray showed a fractured coccyx with bone chips in the surrounding tissue. Nielsen points to records showing he gave an anti-inflammatory injection and prescription ibuprofen after consulting an on-call physician. The district court dismissed the $3 million suit as a new context, because the injury was far less severe than Carlson's fatal emergency and because Carlson never considered the Bureau of Prisons' Administrative Remedy Program, ARP. A divided Ninth Circuit panel reversed. Judge Paez, joined by Judge Koh, applied Abbasi's factors, called the claim \"identical to Carlson in all meaningful respects,\" held that a plaintiff \"need not suffer death or a life-threatening injury,\" and treated alternative remedies as a question for step two. It never reached step two; Watanabe had conceded that if the context is new, special factors bar the claim there. Judge Milan Smith dissented on both severity and the ARP.",
+    "kind": "prep",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-09_25-417_nielsen-v-watanabe.mp3",
+    "rendered": "2026-11-09T16:20:56+00:00",
+    "pubDate": "2026-11-08T17:00-06:00",
+    "release": "2026-11-08T17:00-06:00",
+    "duration": 900.0960000000001,
+    "bytes": 5400576,
+    "voice": "en-CA-LiamNeural",
+    "voices": [
+      "en-CA-LiamNeural",
+      "en-GB-SoniaNeural",
+      "en-GB-LibbyNeural"
+    ],
+    "rate": "+15%",
+    "image": "episodes/2026-11-09_25-417_nielsen-v-watanabe.png",
+    "art_label": "Nielsen v. Watanabe · Nov 9",
+    "art_version": 2
+  },
+  "2026-11-10_25-966_dol-v-sun-valley-orchards": {
+    "file": "2026-11-10_25-966_dol-v-sun-valley-orchards.mp3",
+    "title": "11/10/26 – Prep: Department of Labor v. Sun Valley Orchards, LLC",
+    "description": "In 2015 Sun Valley brought in 96 H-2A workers and employed 51 domestic workers alongside them under a job order, which serves as the work contract, promising free housing, kitchen facilities and transportation and the \"three-fourths guarantee\" of hours. After a Wage and Hour Division investigation and a hearing, an ALJ and D O L's Administrative Review Board found that the farm replaced kitchen access with undisclosed meal charges, profited on drinks deducted from pay, provided substandard housing and vehicles with worn tires and unlicensed drivers, and sent workers home early on forms saying they had left voluntarily. They ordered $211,800 in civil penalties and $344,945.80 in back wages under section 1188 g 2, which authorizes the Secretary \"to take such actions, including imposing appropriate penalties and seeking appropriate injunctive relief and specific performance of contractual obligations, as may be necessary to assure employer compliance.\" The district court dismissed Sun Valley's APA suit on public-rights grounds. The Third Circuit reversed under Jarkesy, holding that D O L had litigated what amounted to a breach-of-contract claim for common-law remedies, penalties, and back wages imposed partly to deter, and that the immigration strand of public rights covers matters close to admitting and excluding aliens, not \"rules about worker hours, housing, cooking, and transportation.\" The panel suggested D O L could still debar the farm through agency proceedings, rejected the government's waiver argument, and did not reach the statutory, Article Two or Eighth Amendment claims. There is no circuit split; the government sought review because, in its view, a federal statute had been invalidated.",
+    "kind": "prep",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/scotus/episodes/2026-11-10_25-966_dol-v-sun-valley-orchards.mp3",
+    "rendered": "2026-11-09T16:20:56+00:00",
+    "pubDate": "2026-11-09T17:00-06:00",
+    "release": "2026-11-09T17:00-06:00",
+    "duration": 878.8559999999999,
+    "bytes": 5273136,
+    "voice": "en-CA-LiamNeural",
+    "voices": [
+      "en-CA-LiamNeural",
+      "en-GB-SoniaNeural",
+      "en-GB-LibbyNeural"
+    ],
+    "rate": "+15%",
+    "image": "episodes/2026-11-10_25-966_dol-v-sun-valley-orchards.png",
+    "art_label": "Labor v. Sun Valley · Nov 10",
+    "art_version": 2
   }
 }
