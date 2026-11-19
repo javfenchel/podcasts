@@ -5,7 +5,7 @@
 <link>https://javfenchel.github.io/podcasts/todo/</link>
 <description>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 18 Nov 2026 18:00:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 18:00:52 +0000</lastBuildDate>
 <atom:link href="https://javfenchel.github.io/podcasts/todo/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Jeff Fenchel</itunes:author>
 <itunes:summary>Jeff&#x27;s personal to-do list, read aloud at noon each day. Items are open issues in a private repo; closing one marks it done.</itunes:summary>
@@ -14,6 +14,15 @@
 <itunes:type>episodic</itunes:type>
 <itunes:image href="https://javfenchel.github.io/podcasts/todo/cover.png"/>
 <image><url>https://javfenchel.github.io/podcasts/todo/cover.png</url><title>To-do Brief</title><link>https://javfenchel.github.io/podcasts/todo/</link></image>
+<item>
+<title>11/19/26 – To-do brief</title>
+<description>Your list is clear.</description>
+<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-11-19.mp3" length="38160" type="audio/mpeg"/>
+<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-11-19.mp3#2026-11-19T18:00:52+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:52 +0000</pubDate>
+<itunes:duration>0:00:06</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>11/18/26 – To-do brief</title>
 <description>Your list is clear.</description>
@@ -65,15 +74,6 @@
 <enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-11-13.mp3" length="37872" type="audio/mpeg"/>
 <guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-11-13.mp3#2026-11-13T18:00:55+00:00</guid>
 <pubDate>Fri, 13 Nov 2026 18:00:55 +0000</pubDate>
-<itunes:duration>0:00:06</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>11/11/26 – To-do brief</title>
-<description>Your list is clear.</description>
-<enclosure url="https://javfenchel.github.io/podcasts/todo/episodes/2026-11-11.mp3" length="37152" type="audio/mpeg"/>
-<guid isPermaLink="false">https://javfenchel.github.io/podcasts/todo/episodes/2026-11-11.mp3#2026-11-11T18:00:26+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 18:00:26 +0000</pubDate>
 <itunes:duration>0:00:06</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
