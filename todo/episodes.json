@@ -1,23 +1,4 @@
 {
-  "2026-11-16": {
-    "file": "2026-11-16.mp3",
-    "title": "11/16/26 – To-do brief",
-    "description": "Monday, November 16. Your to-do brief.",
-    "kind": "brief",
-    "link": "",
-    "guid": "https://javfenchel.github.io/podcasts/todo/episodes/2026-11-16.mp3#2026-11-16T18:00:41+00:00",
-    "rendered": "2026-11-16T18:00:41+00:00",
-    "pubDate": "2026-11-16T18:00:41+00:00",
-    "release": null,
-    "duration": 18.72,
-    "bytes": 112320,
-    "voice": "en-GB-LibbyNeural",
-    "voices": [
-      "en-GB-LibbyNeural",
-      "en-GB-SoniaNeural"
-    ],
-    "rate": "+15%"
-  },
   "2026-11-17": {
     "file": "2026-11-17.mp3",
     "title": "11/17/26 – To-do brief",
@@ -125,6 +106,25 @@
     "release": null,
     "duration": 6.456,
     "bytes": 38736,
+    "voice": "en-GB-LibbyNeural",
+    "voices": [
+      "en-GB-LibbyNeural",
+      "en-GB-SoniaNeural"
+    ],
+    "rate": "+15%"
+  },
+  "2026-11-23": {
+    "file": "2026-11-23.mp3",
+    "title": "11/23/26 – To-do brief",
+    "description": "Your list is clear.",
+    "kind": "brief",
+    "link": "",
+    "guid": "https://javfenchel.github.io/podcasts/todo/episodes/2026-11-23.mp3#2026-11-23T18:00:47+00:00",
+    "rendered": "2026-11-23T18:00:47+00:00",
+    "pubDate": "2026-11-23T18:00:47+00:00",
+    "release": null,
+    "duration": 6.384,
+    "bytes": 38304,
     "voice": "en-GB-LibbyNeural",
     "voices": [
       "en-GB-LibbyNeural",
